@@ -13,14 +13,14 @@ This project analyzes customer churn behavior using SQL and Power BI to identify
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - MySQL (Data Analysis)
 - Power BI (Visualization)
 - Excel (Data Cleaning)
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Month-to-month contracts have highest churn rate
 - New customers are more likely to churn
 - High monthly charges increase churn risk
